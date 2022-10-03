@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghawale Ghawale</h1>
-<h3 align="center">A passionate Embedded Developer from India</h3>
+<h3 align="center">A motivated embedded system designer, able to design real time, reliable and deterministic applications and product. Also Architectural decisions take for early strongly influence the ease and even the feasibility of the detailed hardware and software implementations. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajananembedded&label=Profile%20views&color=0e75b6&style=flat" alt="gajananembedded" /> </p>
 
