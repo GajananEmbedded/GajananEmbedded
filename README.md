@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ghawale Ghawale</h1>
 <h3 align="center">A motivated embedded system designer, able to design real time, reliable and deterministic applications and product. Also Architectural decisions take for early strongly influence the ease and even the feasibility of the detailed hardware and software implementations. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself.</h3>
 
+<img src="https://github.com/GajananEmbedded/GajananEmbedded/blob/main/bg.jpg"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajananembedded&label=Profile%20views&color=0e75b6&style=flat" alt="gajananembedded" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajananembedded" alt="gajananembedded" /></a> </p>
