@@ -1,6 +1,6 @@
 <h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/gajanan-ghawale-927921239/"target="_blank"> Gajanan Ghawale </a></h1>
-## 🚀 About Me
-
+##<h1> 🚀 About Me
+</h1>
 A motivated embedded system designer, able to design real time, reliable and deterministic applications and product. Also Architectural decisions take for early strongly influence the ease and even the feasibility of the detailed hardware and software implementations. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself.
 
 <img src="https://github.com/GajananEmbedded/GajananEmbedded/blob/main/bg.jpg"/>
